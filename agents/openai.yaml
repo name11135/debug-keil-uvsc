@@ -1,0 +1,4 @@
+interface:
+  display_name: "Keil UVSC Debug"
+  short_description: "Connect Codex to native Keil uVision debug sessions"
+  default_prompt: "Connect to the Keil uVision UVSOCK session and inspect target status, registers, stack, variables, memory, and breakpoints."
